@@ -35,13 +35,13 @@ Follow the steps below to install and run the ERP system locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Hiralalkumaryadav/ENTNT_TECH_ASSIGNMENT.git
+   git clone https://github.com/Hiralalkumaryadav/ENTNT_Assignment.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd erp-system
+   cd ENTNT_Assignment
    ```
 
 3. Install dependencies:
